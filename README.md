@@ -30,6 +30,6 @@ Fork on Github
 
 ###
 
-<img src="https://raw.githubusercontent.com/Omar63738/Omar63738/output/snake.svg" alt="Snake animation" />
+
 
 ###
